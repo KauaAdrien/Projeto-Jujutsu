@@ -79,7 +79,7 @@ main .personagem .imagem {
     width: 180px;
     justify-content: center;
     align-items: center;
-    gap: 20px;
+    gap: 15px;
     background-color: rgba(0, 0, 0, 0.3);
 }
 
@@ -92,8 +92,8 @@ main .personagem .imagem {
 
 .botoes .botao img {
     border-radius: 50%;
-    width: 100px;
-    height: 100px;
+    width: 90px;
+    height: 90px;
 }
 
 .botoes .botao.selecionado {
